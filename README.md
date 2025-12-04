@@ -1,6 +1,11 @@
 ## About Me
 
-Entered Rensselaer Polytechnic Institude in Fall 2024. Executive board of RPI Robotics. On the Rensselaer Motorsport's Formula SAE controls subteam. 
+
+Enrolled at Rensselaer Polytechnic Institute from Fall 2024 - Fall 2025.
+Previously executive board of RPI Robotics.
+Did controls development for Rensselaer Motorsport's Formula SAE team.
+Transferred to Worcester Polytechnic Institute for Spring 2026.
+Interested in systems programming and advanced mathematics.
 
 ### Languages:
 
