@@ -7,7 +7,18 @@ Did controls development for Rensselaer Motorsport's Formula SAE team.
 Transferred to Worcester Polytechnic Institute for Spring 2026.
 Interested in systems programming, control theory, and advanced mathematics.
 
-### Languages:
+## Projects
+
+| [C++ Control Theory Toolbox](https://github.com/haydenheroux/controls) | [Modernized RPI Robotics Website](https://github.com/haydenheroux/rpi-robotics-website) |
+|---------------------------|--------------------------------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/55a2fa55-a5cf-472d-a20e-e3099fb6e6c9" height="200" /></div> | <div align="center"><img src="https://github.com/user-attachments/assets/32a35bd2-764f-464a-93f6-660e597afa90" height="200" /></div> |
+
+| [Stylized Images using OpenCV](https://github.com/haydenheroux/kmeans) | [HyprMile - Driver-Driven Data](https://github.com/haydenheroux/hyprmile) |
+|------------------------------|-------------------------------|
+| <div align="center"><img src="https://github.com/user-attachments/assets/3b9eb719-83a7-41f1-9c7d-fe5c09ae0e87" height="200" /></div> | <div align="center"><img src="https://github.com/user-attachments/assets/a5ba0010-c7b6-42ce-a31b-0ae2cfcc5227" height="200" /></div> |
+
+
+## Languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -25,20 +36,5 @@ Interested in systems programming, control theory, and advanced mathematics.
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-</div>
-
-### Learning:
-
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
-
-## Projects
-
-| C++ Control Theory Toolbox | Modernized RPI Robotics Website |
-|---------------------------|--------------------------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/55a2fa55-a5cf-472d-a20e-e3099fb6e6c9" height="200" /></div> | <div align="center"><img src="https://github.com/user-attachments/assets/32a35bd2-764f-464a-93f6-660e597afa90" height="200" /></div> |
-
-| Stylized Images using OpenCV | HyprMile - Driver-Driven Data |
-|------------------------------|-------------------------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/3b9eb719-83a7-41f1-9c7d-fe5c09ae0e87" height="200" /></div> | <div align="center"><img src="https://github.com/user-attachments/assets/a5ba0010-c7b6-42ce-a31b-0ae2cfcc5227" height="200" /></div> |
