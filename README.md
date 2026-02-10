@@ -11,11 +11,11 @@ Interested in systems programming, control theory, and advanced mathematics.
 
 | [C++ Control Theory Toolbox](https://github.com/haydenheroux/controls) | [Modernized RPI Robotics Website](https://github.com/haydenheroux/rpi-robotics-website) |
 |---------------------------|--------------------------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/55a2fa55-a5cf-472d-a20e-e3099fb6e6c9" height="200" /></div> | <div align="center"><img src="https://github.com/user-attachments/assets/32a35bd2-764f-464a-93f6-660e597afa90" height="200" /></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/55a2fa55-a5cf-472d-a20e-e3099fb6e6c9" height="200" /><br/><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/32a35bd2-764f-464a-93f6-660e597afa90" height="200" /><br/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></div> |
 
 | [Stylized Images](https://github.com/haydenheroux/kmeans) | [HyprMile - Driver-Driven Data](https://github.com/haydenheroux/hyprmile) |
 |------------------------------|-------------------------------|
-| <div align="center"><img src="https://github.com/user-attachments/assets/3b9eb719-83a7-41f1-9c7d-fe5c09ae0e87" height="200" /></div> | <div align="center"><img src="https://github.com/user-attachments/assets/a5ba0010-c7b6-42ce-a31b-0ae2cfcc5227" height="200" /></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/3b9eb719-83a7-41f1-9c7d-fe5c09ae0e87" height="200" /><br/><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/></div> | <div align="center"><img src="https://github.com/user-attachments/assets/a5ba0010-c7b6-42ce-a31b-0ae2cfcc5227" height="200" /><br/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></div> |
 
 
 ## Languages
