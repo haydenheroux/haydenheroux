@@ -5,7 +5,7 @@ Enrolled at Rensselaer Polytechnic Institute from Fall 2024 - Fall 2025.
 Previously executive board of RPI Robotics.
 Did controls development for Rensselaer Motorsport's Formula SAE team.
 Transferred to Worcester Polytechnic Institute for Spring 2026.
-Interested in systems programming, control theory, and advanced mathematics.
+Interested in systems programming, distributed / high frequency systems, control theory, and advanced mathematics.
 Previously worked at Arden Building Companies and FM.
 
 ## Projects
